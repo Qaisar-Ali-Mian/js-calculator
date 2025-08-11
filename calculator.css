@@ -1,0 +1,86 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(211, 224, 239);
+    
+}
+#calculator{
+    background-color: white;
+    border: 1px solid #373636;
+    border-radius: 15px;
+    width: 250px;
+    height: 320px;
+    
+}
+
+#display{
+     background-color: #2563eb; 
+    color: white;  
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+    border: none;
+    border-radius: 25px;
+    margin-left: 17px;
+    text-align: right;
+  
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    font-size: 20px;
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(211, 224, 239);
+    cursor: pointer;
+    box-shadow: 
+    5px 5px 15px rgba(0, 0, 0, 0.2),   
+    -5px -5px 15px rgba(255, 255, 255, 0.7);
+}
+#buttonConatainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  
+}
+
+#percantage{
+    background-color: white;
+}
+#underoot{
+    background-color: white;
+}
+#clear{
+    background-color: white;
+}
+#backspace {
+    background-color: #6b7280; 
+    color: white;
+}
+
+
+
+#subtract {
+    background-color: #ef4444; 
+    color: white;
+}
+
+#divide {
+    background-color: #3b82f6; 
+    color: white;
+}
+
+#multiplication {
+    background-color: #facc15; 
+    color: white;
+}
+
+#plus {
+    background-color: #22c55e; 
+    color: white;
+}
+#equalto{
+    background-color: white;
+}
