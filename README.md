@@ -48,7 +48,7 @@ calculator/
 
 🌐 Live Demo
 
-file:///C:/Users/dddd/OneDrive/Desktop/Calculator/index.html
+https://qaisar-ali-mian.github.io/js-calculator/
 📸 Screenshot
 
 <img width="209" height="252" alt="image" src="https://github.com/user-attachments/assets/d907eb35-5b02-42d0-9151-53b5ca377361" />
